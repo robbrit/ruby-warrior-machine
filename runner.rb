@@ -27,4 +27,4 @@ input.rewind
 
 runner = RubyWarrior::Runner.new([], input, output)
 runner.run
-puts output.string
+$>.puts output.string

@@ -1,0 +1,8 @@
+# Vim swap files
+*.swp
+
+# Generated code
+code
+
+# Rubywarrior folder
+rubywarrior
